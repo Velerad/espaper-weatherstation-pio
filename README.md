@@ -1,6 +1,8 @@
 # espaper-weatherstation-pio
 
-This is a repository you can use with platformio and the espaper weatherstation by ThingPulse. Their own repository is lacking any information (doesn't even have a readme) so I made this.
+This is a repository you can use with platformio and the espaper weatherstation by ThingPulse as sold here: https://thingpulse.com/product/2-9-espaper-plus-kit/ (no affiliate or whatever).
+
+![thedevice](https://github.com/Thijxx/espaper-weatherstation-pio/blob/master/img/ESPaperBoxBezelFrontReflection.jpg)
 
 **Configuration**
 
@@ -40,3 +42,5 @@ Before you put the device in programming mode make sure it has power via USB or 
 - Release both
 - Hit Upload in Platfomrio
 
+![back](https://github.com/Thijxx/espaper-weatherstation-pio/blob/master/img/PCBBackReflectionWithLegend.jpg)
+![front](https://github.com/Thijxx/espaper-weatherstation-pio/blob/master/img/PCBFrontReflectionWithLegend.jpg)
