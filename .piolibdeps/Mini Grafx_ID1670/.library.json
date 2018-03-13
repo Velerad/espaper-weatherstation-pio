@@ -1,0 +1,32 @@
+{
+    "name": "Mini Grafx", 
+    "repository": {
+        "url": "https://github.com/squix78/minigrafx", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "espressif32", 
+        "espressif8266"
+    ], 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "0.0.19", 
+    "authors": [
+        {
+            "maintainer": false, 
+            "name": "Daniel Eichhorn", 
+            "url": "https://blog.squix.org", 
+            "email": "squix78@gmail.com"
+        }
+    ], 
+    "keywords": [
+        "tft", 
+        "oled", 
+        "e-paper", 
+        "embedded", 
+        "graphics"
+    ], 
+    "id": 1670, 
+    "description": "A generic graphics library containing several drivers for TFT, OLED and e-paper displays"
+}
